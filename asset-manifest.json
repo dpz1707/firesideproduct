@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/firesideproduct/static/css/main.8d6a17ca.css",
-    "main.js": "/firesideproduct/static/js/main.5fe12fb4.js",
+    "main.js": "/firesideproduct/static/js/main.8dd9cf81.js",
     "index.html": "/firesideproduct/index.html",
     "main.8d6a17ca.css.map": "/firesideproduct/static/css/main.8d6a17ca.css.map",
-    "main.5fe12fb4.js.map": "/firesideproduct/static/js/main.5fe12fb4.js.map"
+    "main.8dd9cf81.js.map": "/firesideproduct/static/js/main.8dd9cf81.js.map"
   },
   "entrypoints": [
     "static/css/main.8d6a17ca.css",
-    "static/js/main.5fe12fb4.js"
+    "static/js/main.8dd9cf81.js"
   ]
 }
